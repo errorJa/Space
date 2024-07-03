@@ -1,0 +1,20 @@
+before = -5639475
+after = -14652850 // более тёмный зелёный
+after = -15131622 // черный
+
+actionBarDefaultSubmenuItemIcon=-5639475 // no// no// no
+chats_menuItemIcon=-5639475 // no
+chats_menuName=-5639475 // no
+chat_inMenu=-5639475 // no
+chat_inMenuSelected=-5639475 // no
+chat_mediaMenu=-5639475 // no
+chat_botButtonText=-5639475 // no
+chat_botKeyboardButtonBackground=-9144460 // no
+
+
+
+
+
+
+
+
